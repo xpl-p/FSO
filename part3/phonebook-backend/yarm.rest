@@ -1,7 +1,0 @@
-POST http://localhost:3001/api/phonebook
-Content-Type: application/json
-
-{
-  "name": "Doctor Doo Little",
-  "number": "8675309"
-}
